@@ -1,1 +1,3 @@
-//your JS code here. If required.
+let z=prompt("enter function name ");
+alert(z);
+
